@@ -1,2 +1,3 @@
 # hello-world
-Refresher
+
+Test repository for a GitHub UI refresher!
